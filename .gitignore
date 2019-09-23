@@ -1,0 +1,13 @@
+''
+__pycache__/
+migrations/
+materialy/
+config.py
+logs/
+venv/
+app.db
+.idea/
+*.xlsx
+*.db
+*.pdf
+*.txt

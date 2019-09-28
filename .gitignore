@@ -11,3 +11,4 @@ app.db
 *.db
 *.pdf
 *.txt
+*.csv
